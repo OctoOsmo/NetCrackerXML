@@ -2,11 +2,19 @@ package XMLGen;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.core.Logger;
+import org.xml.sax.SAXException;
 
+import javax.xml.XMLConstants;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
+import javax.xml.bind.SchemaOutputResolver;
+import javax.xml.transform.Result;
+import javax.xml.transform.stream.StreamResult;
+import javax.xml.validation.Schema;
+import javax.xml.validation.SchemaFactory;
 import java.io.File;
+import java.io.IOException;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -42,8 +50,9 @@ public class XMLGen {
             student2.setBirth_date(df.parse("11.1993"));
         } catch (ParseException e) {
             log.error(e.getMessage());
+            log.error("Date of birth has not been set");
         }
-        ArrayList<ExamResult> examResults1 = new ArrayList<ExamResult>();
+        ArrayList<ExamResult> examResults1 = new ArrayList<>();
         examResults1.add(new ExamResult("Гистология", 56));
         examResults1.add(new ExamResult("Правоведение", 98));
         examResults1.add(new ExamResult("Теория графов", 73));
@@ -52,7 +61,7 @@ public class XMLGen {
         student2.setId(2);
         student2.setName("Григорий");
         student2.setFamily("Астапенко");
-        ArrayList<ExamResult> examResults2 = new ArrayList<ExamResult>();
+        ArrayList<ExamResult> examResults2 = new ArrayList<>();
         examResults2.add(new ExamResult("Гистология", 42));
         examResults2.add(new ExamResult("Правоведение", 56));
         examResults2.add(new ExamResult("Теория графов", 69));
@@ -69,11 +78,21 @@ public class XMLGen {
             JAXBContext context = JAXBContext.newInstance(XmlRoot.class);
             Marshaller marshaller = context.createMarshaller();
             marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
-            marshaller.marshal(root, System.out);
             marshaller.marshal(root, new File("generated.xml"));
+
+            SchemaOutputResolver sor = new SchemaOutputResolver() {
+                @Override
+                public Result createOutput(String namespaceUri, String suggestedFileName) throws IOException {
+                    return new StreamResult(new File(suggestedFileName));
+                }
+            };
+            context.generateSchema(sor);
         } catch (JAXBException e) {
             log.error(e.getMessage());
+        } catch (IOException e) {
+            log.error(e.getMessage());
         }
+
     }
 
 }
