@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xmlRoot>
     <groups id="1">
-        <name>Р�Р’Рў-132</name>
+        <name>ИВТ-132</name>
         <students>
             <student id="1">
-                <family>РџРµС‚СЂРѕРІ</family>
-                <name>РђРЅРґСЂРµР№</name>
+                <family>Петров</family>
+                <name>Андрей</name>
                 <birth_date>1994-11-07T00:00:00+03:00</birth_date>
                 <examResults>
-                    <course_name>Р“РёСЃС‚РѕР»РѕРіРёСЏ</course_name>
+                    <course_name>Гистология</course_name>
                     <grade>56</grade>
                 </examResults>
                 <examResults>
-                    <course_name>РџСЂР°РІРѕРІРµРґРµРЅРёРµ</course_name>
+                    <course_name>Правоведение</course_name>
                     <grade>98</grade>
                 </examResults>
                 <examResults>
-                    <course_name>РўРµРѕСЂРёСЏ РіСЂР°С„РѕРІ</course_name>
+                    <course_name>Теория графов</course_name>
                     <grade>73</grade>
                 </examResults>
             </student>
             <student id="2">
-                <family>РђСЃС‚Р°РїРµРЅРєРѕ</family>
-                <name>Р“СЂРёРіРѕСЂРёР№</name>
+                <family>Астапенко</family>
+                <name>Григорий</name>
                 <birth_date>1993-01-11T00:00:00+03:00</birth_date>
                 <examResults>
-                    <course_name>Р“РёСЃС‚РѕР»РѕРіРёСЏ</course_name>
+                    <course_name>Гистология</course_name>
                     <grade>42</grade>
                 </examResults>
                 <examResults>
-                    <course_name>РџСЂР°РІРѕРІРµРґРµРЅРёРµ</course_name>
+                    <course_name>Правоведение</course_name>
                     <grade>56</grade>
                 </examResults>
                 <examResults>
-                    <course_name>РўРµРѕСЂРёСЏ РіСЂР°С„РѕРІ</course_name>
+                    <course_name>Теория графов</course_name>
                     <grade>69</grade>
                 </examResults>
             </student>
