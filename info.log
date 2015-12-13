@@ -1,0 +1,34 @@
+2015-12-12 16:55:37,913 INFO Main [main] main XML 
+2015-12-12 16:58:44,868 INFO Main [main] main XML 
+2015-12-12 16:59:28,487 INFO Main [main] main XML 
+2015-12-12 16:59:55,815 INFO Main [main] main XML 
+2015-12-12 17:01:16,831 INFO Main [main] main XML 
+2015-12-12 17:02:33,955 INFO Main [main] main XML 
+2015-12-12 17:02:33,963 ERROR Main [main] main Unparseable date: "2.Jul.1984" 
+2015-12-12 17:02:46,313 INFO Main [main] main XML 
+2015-12-12 17:02:46,321 ERROR Main [main] main Unparseable date: "2.July.1984" 
+2015-12-12 17:08:23,470 INFO Main [main] main XML 
+2015-12-13 00:07:10,414 INFO Main [main] main XML 
+2015-12-13 01:12:23,875 INFO Main [main] main XML 
+2015-12-13 01:25:31,690 INFO Main [main] main XML 
+2015-12-13 01:25:54,632 INFO Main [main] main XML 
+2015-12-13 01:28:08,522 INFO Main [main] main XML 
+2015-12-13 01:31:14,784 INFO Main [main] main XML 
+2015-12-13 01:32:13,606 INFO Main [main] main XML 
+2015-12-13 01:41:48,097 INFO Main [main] main XML 
+2015-12-13 01:47:53,967 INFO Main [main] main XML 
+2015-12-13 01:56:06,798 INFO Main [main] main XML 
+2015-12-13 02:18:02,777 INFO XMLGen.XMLGen [main] generateXMl XML
+2015-12-13 02:20:30,805 INFO XMLGen.XMLGen [main] generateXMl XML
+2015-12-13 02:20:59,534 INFO XMLGen.XMLGen [main] generateXMl XML
+2015-12-13 02:22:48,741 INFO XMLGen.XMLGen [main] generateXMl XML
+2015-12-13 02:23:53,998 INFO XMLGen.XMLGen [main] generateXMl Generating XML
+2015-12-13 02:29:44,327 INFO XMLGen.XMLGen [main] generateXMl Generating XML
+2015-12-13 02:32:48,604 INFO XMLGen.XMLGen [main] generateXMl Generating XML
+2015-12-13 02:33:17,070 INFO XMLGen.XMLGen [main] generateXMl Generating XML
+2015-12-13 04:26:23,722 ERROR XMLGen.XMLGen [main] generateXML null
+2015-12-13 04:27:23,074 ERROR XMLGen.XMLGen [main] generateXML null
+2015-12-13 04:29:06,464 ERROR XMLGen.XMLGen [main] generateXML 1 counts of IllegalAnnotationExceptions
+2015-12-13 04:29:13,624 ERROR XMLGen.XMLGen [main] generateXML 1 counts of IllegalAnnotationExceptions
+2015-12-13 04:30:44,707 ERROR XMLGen.XMLGen [main] generateXML null
+2015-12-13 04:31:35,180 ERROR XMLGen.XMLGen [main] generateXML 2 counts of IllegalAnnotationExceptions

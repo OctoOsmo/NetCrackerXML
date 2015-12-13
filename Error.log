@@ -1,0 +1,8 @@
+[Main.java:33] 2015-12-12 17:02:33,963 ERROR Main [main] main Unparseable date: "2.Jul.1984" 
+[Main.java:33] 2015-12-12 17:02:46,321 ERROR Main [main] main Unparseable date: "2.July.1984" 
+[XMLGen.XMLGen.java:103] 2015-12-13 04:26:23,722 ERROR XMLGen.XMLGen [main] generateXML null
+[XMLGen.XMLGen.java:103] 2015-12-13 04:27:23,074 ERROR XMLGen.XMLGen [main] generateXML null
+[XMLGen.XMLGen.java:103] 2015-12-13 04:29:06,464 ERROR XMLGen.XMLGen [main] generateXML 1 counts of IllegalAnnotationExceptions
+[XMLGen.XMLGen.java:103] 2015-12-13 04:29:13,624 ERROR XMLGen.XMLGen [main] generateXML 1 counts of IllegalAnnotationExceptions
+[XMLGen.XMLGen.java:103] 2015-12-13 04:30:44,707 ERROR XMLGen.XMLGen [main] generateXML null
+[XMLGen.XMLGen.java:103] 2015-12-13 04:31:35,180 ERROR XMLGen.XMLGen [main] generateXML 2 counts of IllegalAnnotationExceptions
