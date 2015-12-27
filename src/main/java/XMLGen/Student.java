@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * Created by al on 12.12.2015.
  */
 
-@XmlType(propOrder = {"examResults"}, name = "student")
+//@XmlType(propOrder = {"examResults"}, name = "student")
 public class Student extends Person {
 
     Integer id;
@@ -27,8 +27,8 @@ public class Student extends Person {
         return examResults;
     }
 
-//    @XmlElementWrapper(name = "ExamResults")
-//    @XmlElement(name = "XMLGen.ExamResult")
+    @XmlElementWrapper(name = "examResults")
+    @XmlElement(name = "examResult")
     public void setExamResults(ArrayList<ExamResult> examResults) {
         this.examResults = examResults;
     }

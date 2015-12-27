@@ -6,7 +6,7 @@ import javax.xml.bind.annotation.XmlType;
  * Created by al on 12.12.2015.
  */
 
-@XmlType(propOrder = {"course_name", "grade"}, name = "ExamResult")
+@XmlType(name = "ExamResult", propOrder = {"course_name", "grade"})
 public class ExamResult {
     String course_name;
     Integer grade;

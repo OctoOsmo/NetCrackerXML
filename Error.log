@@ -6,3 +6,8 @@
 [XMLGen.XMLGen.java:103] 2015-12-13 04:29:13,624 ERROR XMLGen.XMLGen [main] generateXML 1 counts of IllegalAnnotationExceptions
 [XMLGen.XMLGen.java:103] 2015-12-13 04:30:44,707 ERROR XMLGen.XMLGen [main] generateXML null
 [XMLGen.XMLGen.java:103] 2015-12-13 04:31:35,180 ERROR XMLGen.XMLGen [main] generateXML 2 counts of IllegalAnnotationExceptions
+[XMLGen.java:86] 2015-12-13 05:16:20,410 ERROR X.XMLGen [main] generateXML schema_reference.4: Failed to read schema document 'file:/C:/Users/al/IdeaProjects/NetCrackerXML/groups_schema.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>. 
+[XMLGen.java:87] 2015-12-13 05:16:20,423 ERROR X.XMLGen [main] generateXML XML schema has not been created 
+[Main.java:32] 2015-12-25 10:11:19,415 ERROR Main [main] main javax.xml.transform.TransformerException: illegal axis name: name 
+[Main.java:32] 2015-12-27 03:28:13,001 ERROR Main [main] main javax.xml.transform.TransformerException: Unable to evaluate expression using this context 
+[Main.java:32] 2015-12-27 03:28:39,710 ERROR Main [main] main javax.xml.transform.TransformerException: Unable to evaluate expression using this context 

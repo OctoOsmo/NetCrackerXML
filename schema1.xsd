@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
-  <xs:element name="group" type="group"/>
+  <xs:element name="Root" type="root"/>
 
-  <xs:element name="xmlRoot" type="root"/>
+  <xs:element name="group" type="group"/>
 
   <xs:complexType name="root">
     <xs:sequence>
@@ -29,7 +29,13 @@
     <xs:complexContent>
       <xs:extension base="person">
         <xs:sequence>
-          <xs:element name="examResults" type="ExamResult" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+          <xs:element name="examResults" minOccurs="0">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="examResult" type="ExamResult" minOccurs="0" maxOccurs="unbounded"/>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
         </xs:sequence>
         <xs:attribute name="id" type="xs:int"/>
       </xs:extension>

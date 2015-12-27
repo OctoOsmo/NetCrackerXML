@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * Created by al on 13.12.2015.
  */
 
-@XmlRootElement
+@XmlRootElement(name = "Root")
 @XmlType(propOrder = {"groups"}, name = "root")
 public class XmlRoot {
 
