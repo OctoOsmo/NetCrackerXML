@@ -2724,3 +2724,756 @@
 2015-12-28 00:09:13,082 INFO D.XMLFileReader [main] readWithXPath id="2" 
 2015-12-28 00:09:13,084 INFO D.XMLFileReader [main] readWithXPath Григорий 
 2015-12-28 00:09:13,087 INFO D.XMLFileReader [main] readWithXPath Астапенко 
+2015-12-28 03:03:42,245 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:07:53,859 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:07:53,867 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,869 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,870 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,871 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,882 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,883 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,884 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,886 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,887 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,889 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,890 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,891 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,893 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,894 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,895 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,897 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,898 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,899 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,901 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,902 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,903 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,904 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,906 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,907 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,908 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,909 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,910 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,911 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,912 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,914 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,916 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,927 INFO S.XML_SAX [main] startElement  
+2015-12-28 03:07:53,929 INFO S.XML_SAX [main] endDocument Parsing ended 
+2015-12-28 03:08:17,856 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:08:17,863 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:08:17,865 INFO S.XML_SAX [main] startElement groups 
+2015-12-28 03:08:17,866 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:08:17,867 INFO S.XML_SAX [main] startElement students 
+2015-12-28 03:08:17,869 INFO S.XML_SAX [main] startElement student 
+2015-12-28 03:08:17,871 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:08:17,874 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:08:17,875 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:08:17,876 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:08:17,882 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:08:17,883 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:08:17,885 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:08:17,885 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:08:17,886 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:08:17,887 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:08:17,889 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:08:17,890 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:08:17,891 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:08:17,893 INFO S.XML_SAX [main] startElement student 
+2015-12-28 03:08:17,894 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:08:17,895 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:08:17,896 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:08:17,897 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:08:17,898 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:08:17,899 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:08:17,900 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:08:17,901 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:08:17,902 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:08:17,903 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:08:17,904 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:08:17,905 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:08:17,906 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:08:17,907 INFO S.XML_SAX [main] endDocument Parsing ended 
+2015-12-28 03:09:51,648 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:09:51,662 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:09:51,663 INFO S.XML_SAX [main] startElement groups 
+2015-12-28 03:09:51,665 INFO S.XML_SAX [main] startElement id 1 
+2015-12-28 03:09:51,666 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:09:51,668 INFO S.XML_SAX [main] startElement students 
+2015-12-28 03:09:51,669 INFO S.XML_SAX [main] startElement student 
+2015-12-28 03:09:51,672 INFO S.XML_SAX [main] startElement id 1 
+2015-12-28 03:09:51,673 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:09:51,674 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:09:51,680 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:09:51,682 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:09:51,683 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:09:51,684 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:09:51,685 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:09:51,687 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:09:51,688 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:09:51,689 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:09:51,690 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:09:51,691 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:09:51,692 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:09:51,693 INFO S.XML_SAX [main] startElement student 
+2015-12-28 03:09:51,694 INFO S.XML_SAX [main] startElement id 2 
+2015-12-28 03:09:51,695 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:09:51,696 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:09:51,697 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:09:51,698 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:09:51,698 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:09:51,699 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:09:51,700 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:09:51,701 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:09:51,702 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:09:51,703 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:09:51,704 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:09:51,705 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:09:51,707 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:09:51,708 INFO S.XML_SAX [main] endDocument Parsing ended 
+2015-12-28 03:10:50,050 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:10:50,062 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:10:50,065 INFO S.XML_SAX [main] startElement groups 
+2015-12-28 03:10:50,067 INFO S.XML_SAX [main] startElement [id 1] 
+2015-12-28 03:10:50,068 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:10:50,070 INFO S.XML_SAX [main] startElement students 
+2015-12-28 03:10:50,071 INFO S.XML_SAX [main] startElement student 
+2015-12-28 03:10:50,073 INFO S.XML_SAX [main] startElement [id 1] 
+2015-12-28 03:10:50,074 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:10:50,075 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:10:50,077 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:10:50,078 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:10:50,079 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:10:50,080 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:10:50,081 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:10:50,083 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:10:50,084 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:10:50,085 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:10:50,086 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:10:50,088 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:10:50,089 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:10:50,090 INFO S.XML_SAX [main] startElement student 
+2015-12-28 03:10:50,091 INFO S.XML_SAX [main] startElement [id 2] 
+2015-12-28 03:10:50,092 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:10:50,094 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:10:50,094 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:10:50,095 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:10:50,096 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:10:50,097 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:10:50,098 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:10:50,099 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:10:50,100 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:10:50,102 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:10:50,103 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:10:50,104 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:10:50,106 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:10:50,107 INFO S.XML_SAX [main] endDocument Parsing ended 
+2015-12-28 03:12:09,652 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:12:09,690 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:12:09,692 INFO S.XML_SAX [main] startElement groups [id 1] 
+2015-12-28 03:12:09,693 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:12:09,695 INFO S.XML_SAX [main] startElement students 
+2015-12-28 03:12:09,697 INFO S.XML_SAX [main] startElement student [id 1] 
+2015-12-28 03:12:09,698 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:12:09,701 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:12:09,702 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:12:09,703 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:12:09,705 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:12:09,706 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:12:09,709 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:12:09,711 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:12:09,712 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:12:09,714 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:12:09,715 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:12:09,716 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:12:09,717 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:12:09,719 INFO S.XML_SAX [main] startElement student [id 2] 
+2015-12-28 03:12:09,722 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:12:09,723 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:12:09,724 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:12:09,725 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:12:09,726 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:12:09,727 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:12:09,728 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:12:09,729 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:12:09,730 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:12:09,732 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:12:09,733 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:12:09,734 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:12:09,735 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:12:09,736 INFO S.XML_SAX [main] endDocument Parsing ended 
+2015-12-28 03:15:33,908 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:15:33,923 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:15:33,924 INFO S.XML_SAX [main] characters 
+     
+2015-12-28 03:15:33,926 INFO S.XML_SAX [main] startElement groups [id 1] 
+2015-12-28 03:15:33,927 INFO S.XML_SAX [main] characters 
+         
+2015-12-28 03:15:33,928 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:15:33,930 INFO S.XML_SAX [main] characters ИВТ-132 
+2015-12-28 03:15:33,934 INFO S.XML_SAX [main] characters 
+         
+2015-12-28 03:15:33,939 INFO S.XML_SAX [main] startElement students 
+2015-12-28 03:15:33,941 INFO S.XML_SAX [main] characters 
+             
+2015-12-28 03:15:33,947 INFO S.XML_SAX [main] startElement student [id 1] 
+2015-12-28 03:15:33,948 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:15:33,950 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:15:33,951 INFO S.XML_SAX [main] characters Петров 
+2015-12-28 03:15:33,952 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:15:33,954 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:15:33,955 INFO S.XML_SAX [main] characters Андрей 
+2015-12-28 03:15:33,957 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:15:33,958 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:15:33,959 INFO S.XML_SAX [main] characters 1994-11-07T00:00:00+03:00 
+2015-12-28 03:15:33,960 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:15:33,962 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:15:33,963 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:33,964 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:15:33,965 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:33,966 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:15:33,966 INFO S.XML_SAX [main] characters Гистология 
+2015-12-28 03:15:33,967 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:33,968 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:15:33,968 INFO S.XML_SAX [main] characters 56 
+2015-12-28 03:15:33,969 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:33,970 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:33,971 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:15:33,971 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:33,972 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:15:33,972 INFO S.XML_SAX [main] characters Правоведение 
+2015-12-28 03:15:33,973 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:33,975 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:15:33,976 INFO S.XML_SAX [main] characters 98 
+2015-12-28 03:15:33,977 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:33,978 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:33,979 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:15:33,980 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:33,981 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:15:33,982 INFO S.XML_SAX [main] characters Теория графов 
+2015-12-28 03:15:33,983 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:33,984 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:15:33,985 INFO S.XML_SAX [main] characters 73 
+2015-12-28 03:15:33,985 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:33,986 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:15:33,986 INFO S.XML_SAX [main] characters 
+             
+2015-12-28 03:15:33,987 INFO S.XML_SAX [main] characters 
+             
+2015-12-28 03:15:33,989 INFO S.XML_SAX [main] startElement student [id 2] 
+2015-12-28 03:15:33,990 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:15:33,991 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:15:33,992 INFO S.XML_SAX [main] characters Астапенко 
+2015-12-28 03:15:33,993 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:15:33,994 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:15:33,995 INFO S.XML_SAX [main] characters Григорий 
+2015-12-28 03:15:33,995 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:15:33,996 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:15:33,997 INFO S.XML_SAX [main] characters 1993-01-11T00:00:00+03:00 
+2015-12-28 03:15:33,998 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:15:33,999 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:15:34,001 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:34,001 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:15:34,002 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:34,004 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:15:34,005 INFO S.XML_SAX [main] characters Гистология 
+2015-12-28 03:15:34,006 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:34,007 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:15:34,008 INFO S.XML_SAX [main] characters 42 
+2015-12-28 03:15:34,008 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:34,009 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:34,011 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:15:34,012 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:34,013 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:15:34,014 INFO S.XML_SAX [main] characters Правоведение 
+2015-12-28 03:15:34,015 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:34,020 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:15:34,021 INFO S.XML_SAX [main] characters 56 
+2015-12-28 03:15:34,022 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:34,022 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:34,023 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:15:34,024 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:34,025 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:15:34,026 INFO S.XML_SAX [main] characters Теория графов 
+2015-12-28 03:15:34,027 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:15:34,028 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:15:34,028 INFO S.XML_SAX [main] characters 69 
+2015-12-28 03:15:34,030 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:15:34,030 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:15:34,031 INFO S.XML_SAX [main] characters 
+             
+2015-12-28 03:15:34,032 INFO S.XML_SAX [main] characters 
+         
+2015-12-28 03:15:34,033 INFO S.XML_SAX [main] characters 
+     
+2015-12-28 03:15:34,034 INFO S.XML_SAX [main] characters 
+ 
+2015-12-28 03:15:34,035 INFO S.XML_SAX [main] endDocument Parsing ended 
+2015-12-28 03:16:06,176 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:16:06,207 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:16:06,209 INFO S.XML_SAX [main] characters 
+     
+2015-12-28 03:16:06,210 INFO S.XML_SAX [main] startElement groups [id 1] 
+2015-12-28 03:16:06,212 INFO S.XML_SAX [main] characters 
+         
+2015-12-28 03:16:06,213 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:16:06,214 INFO S.XML_SAX [main] characters ИВТ-132 
+2015-12-28 03:16:06,215 INFO S.XML_SAX [main] characters 
+         
+2015-12-28 03:16:06,216 INFO S.XML_SAX [main] startElement students 
+2015-12-28 03:16:06,218 INFO S.XML_SAX [main] characters 
+             
+2015-12-28 03:16:06,219 INFO S.XML_SAX [main] startElement student [id 1] 
+2015-12-28 03:16:06,220 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:16:06,225 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:16:06,226 INFO S.XML_SAX [main] characters Петров 
+2015-12-28 03:16:06,227 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:16:06,229 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:16:06,230 INFO S.XML_SAX [main] characters Андрей 
+2015-12-28 03:16:06,231 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:16:06,234 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:16:06,236 INFO S.XML_SAX [main] characters 1994-11-07T00:00:00+03:00 
+2015-12-28 03:16:06,238 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:16:06,239 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:16:06,240 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,241 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:06,242 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,243 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:06,244 INFO S.XML_SAX [main] characters Гистология 
+2015-12-28 03:16:06,245 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,246 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:06,246 INFO S.XML_SAX [main] characters 56 
+2015-12-28 03:16:06,247 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,248 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,251 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:06,254 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,255 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:06,256 INFO S.XML_SAX [main] characters Правоведение 
+2015-12-28 03:16:06,257 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,258 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:06,259 INFO S.XML_SAX [main] characters 98 
+2015-12-28 03:16:06,260 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,262 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,266 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:06,271 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,274 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:06,275 INFO S.XML_SAX [main] characters Теория графов 
+2015-12-28 03:16:06,276 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,277 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:06,279 INFO S.XML_SAX [main] characters 73 
+2015-12-28 03:16:06,280 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,281 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:16:06,282 INFO S.XML_SAX [main] characters 
+             
+2015-12-28 03:16:06,283 INFO S.XML_SAX [main] characters 
+             
+2015-12-28 03:16:06,284 INFO S.XML_SAX [main] startElement student [id 2] 
+2015-12-28 03:16:06,285 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:16:06,286 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:16:06,287 INFO S.XML_SAX [main] characters Астапенко 
+2015-12-28 03:16:06,288 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:16:06,289 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:16:06,290 INFO S.XML_SAX [main] characters Григорий 
+2015-12-28 03:16:06,291 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:16:06,292 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:16:06,293 INFO S.XML_SAX [main] characters 1993-01-11T00:00:00+03:00 
+2015-12-28 03:16:06,294 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:16:06,295 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:16:06,297 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,298 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:06,299 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,300 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:06,301 INFO S.XML_SAX [main] characters Гистология 
+2015-12-28 03:16:06,301 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,302 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:06,303 INFO S.XML_SAX [main] characters 42 
+2015-12-28 03:16:06,304 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,306 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,309 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:06,313 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,314 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:06,316 INFO S.XML_SAX [main] characters Правоведение 
+2015-12-28 03:16:06,319 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,321 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:06,321 INFO S.XML_SAX [main] characters 56 
+2015-12-28 03:16:06,322 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,324 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,326 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:06,327 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,328 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:06,329 INFO S.XML_SAX [main] characters Теория графов 
+2015-12-28 03:16:06,330 INFO S.XML_SAX [main] characters 
+                         
+2015-12-28 03:16:06,331 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:06,333 INFO S.XML_SAX [main] characters 69 
+2015-12-28 03:16:06,334 INFO S.XML_SAX [main] characters 
+                     
+2015-12-28 03:16:06,335 INFO S.XML_SAX [main] characters 
+                 
+2015-12-28 03:16:06,336 INFO S.XML_SAX [main] characters 
+             
+2015-12-28 03:16:06,337 INFO S.XML_SAX [main] characters 
+         
+2015-12-28 03:16:06,338 INFO S.XML_SAX [main] characters 
+     
+2015-12-28 03:16:06,339 INFO S.XML_SAX [main] characters 
+ 
+2015-12-28 03:16:06,341 INFO S.XML_SAX [main] endDocument Parsing ended 
+2015-12-28 03:16:57,458 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:16:57,473 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:16:57,476 INFO S.XML_SAX [main] startElement groups [id 1] 
+2015-12-28 03:16:57,477 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:16:57,478 INFO S.XML_SAX [main] characters ИВТ-132 
+2015-12-28 03:16:57,479 INFO S.XML_SAX [main] startElement students 
+2015-12-28 03:16:57,481 INFO S.XML_SAX [main] startElement student [id 1] 
+2015-12-28 03:16:57,485 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:16:57,486 INFO S.XML_SAX [main] characters Петров 
+2015-12-28 03:16:57,488 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:16:57,490 INFO S.XML_SAX [main] characters Андрей 
+2015-12-28 03:16:57,491 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:16:57,491 INFO S.XML_SAX [main] characters 1994-11-07T00:00:00+03:00 
+2015-12-28 03:16:57,492 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:16:57,493 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:57,494 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:57,495 INFO S.XML_SAX [main] characters Гистология 
+2015-12-28 03:16:57,497 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:57,498 INFO S.XML_SAX [main] characters 56 
+2015-12-28 03:16:57,499 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:57,500 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:57,501 INFO S.XML_SAX [main] characters Правоведение 
+2015-12-28 03:16:57,502 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:57,503 INFO S.XML_SAX [main] characters 98 
+2015-12-28 03:16:57,505 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:57,506 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:57,507 INFO S.XML_SAX [main] characters Теория графов 
+2015-12-28 03:16:57,509 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:57,510 INFO S.XML_SAX [main] characters 73 
+2015-12-28 03:16:57,511 INFO S.XML_SAX [main] startElement student [id 2] 
+2015-12-28 03:16:57,512 INFO S.XML_SAX [main] startElement family 
+2015-12-28 03:16:57,514 INFO S.XML_SAX [main] characters Астапенко 
+2015-12-28 03:16:57,515 INFO S.XML_SAX [main] startElement name 
+2015-12-28 03:16:57,516 INFO S.XML_SAX [main] characters Григорий 
+2015-12-28 03:16:57,517 INFO S.XML_SAX [main] startElement birth_date 
+2015-12-28 03:16:57,518 INFO S.XML_SAX [main] characters 1993-01-11T00:00:00+03:00 
+2015-12-28 03:16:57,519 INFO S.XML_SAX [main] startElement examResults 
+2015-12-28 03:16:57,520 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:57,521 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:57,523 INFO S.XML_SAX [main] characters Гистология 
+2015-12-28 03:16:57,524 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:57,525 INFO S.XML_SAX [main] characters 42 
+2015-12-28 03:16:57,526 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:57,528 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:57,529 INFO S.XML_SAX [main] characters Правоведение 
+2015-12-28 03:16:57,530 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:57,531 INFO S.XML_SAX [main] characters 56 
+2015-12-28 03:16:57,532 INFO S.XML_SAX [main] startElement examResult 
+2015-12-28 03:16:57,533 INFO S.XML_SAX [main] startElement course_name 
+2015-12-28 03:16:57,534 INFO S.XML_SAX [main] characters Теория графов 
+2015-12-28 03:16:57,535 INFO S.XML_SAX [main] startElement grade 
+2015-12-28 03:16:57,536 INFO S.XML_SAX [main] characters 69 
+2015-12-28 03:16:57,538 INFO S.XML_SAX [main] endDocument Parsing ended 
+2015-12-28 03:23:21,845 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:23:21,882 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:23:21,883 INFO S.XML_SAX [main] startElement 	groups [id 1] 
+2015-12-28 03:23:21,885 INFO S.XML_SAX [main] startElement 		name 
+2015-12-28 03:23:21,886 INFO S.XML_SAX [main] characters 			ИВТ-132 
+2015-12-28 03:23:21,887 INFO S.XML_SAX [main] startElement 		students 
+2015-12-28 03:23:21,889 INFO S.XML_SAX [main] startElement 			student [id 1] 
+2015-12-28 03:23:21,890 INFO S.XML_SAX [main] startElement 				family 
+2015-12-28 03:23:21,891 INFO S.XML_SAX [main] characters 					Петров 
+2015-12-28 03:23:21,893 INFO S.XML_SAX [main] startElement 				name 
+2015-12-28 03:23:21,894 INFO S.XML_SAX [main] characters 					Андрей 
+2015-12-28 03:23:21,896 INFO S.XML_SAX [main] startElement 				birth_date 
+2015-12-28 03:23:21,897 INFO S.XML_SAX [main] characters 					1994-11-07T00:00:00+03:00 
+2015-12-28 03:23:21,898 INFO S.XML_SAX [main] startElement 				examResults 
+2015-12-28 03:23:21,899 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:23:21,900 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:23:21,901 INFO S.XML_SAX [main] characters 							Гистология 
+2015-12-28 03:23:21,903 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:23:21,904 INFO S.XML_SAX [main] characters 							56 
+2015-12-28 03:23:21,905 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:23:21,906 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:23:21,907 INFO S.XML_SAX [main] characters 							Правоведение 
+2015-12-28 03:23:21,908 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:23:21,909 INFO S.XML_SAX [main] characters 							98 
+2015-12-28 03:23:21,910 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:23:21,911 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:23:21,912 INFO S.XML_SAX [main] characters 							Теория графов 
+2015-12-28 03:23:21,914 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:23:21,915 INFO S.XML_SAX [main] characters 							73 
+2015-12-28 03:23:21,917 INFO S.XML_SAX [main] startElement 			student [id 2] 
+2015-12-28 03:23:21,918 INFO S.XML_SAX [main] startElement 				family 
+2015-12-28 03:23:21,919 INFO S.XML_SAX [main] characters 					Астапенко 
+2015-12-28 03:23:21,920 INFO S.XML_SAX [main] startElement 				name 
+2015-12-28 03:23:21,921 INFO S.XML_SAX [main] characters 					Григорий 
+2015-12-28 03:23:21,922 INFO S.XML_SAX [main] startElement 				birth_date 
+2015-12-28 03:23:21,923 INFO S.XML_SAX [main] characters 					1993-01-11T00:00:00+03:00 
+2015-12-28 03:23:21,924 INFO S.XML_SAX [main] startElement 				examResults 
+2015-12-28 03:23:21,925 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:23:21,927 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:23:21,928 INFO S.XML_SAX [main] characters 							Гистология 
+2015-12-28 03:23:21,931 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:23:21,932 INFO S.XML_SAX [main] characters 							42 
+2015-12-28 03:23:21,933 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:23:21,935 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:23:21,936 INFO S.XML_SAX [main] characters 							Правоведение 
+2015-12-28 03:23:21,937 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:23:21,939 INFO S.XML_SAX [main] characters 							56 
+2015-12-28 03:23:21,940 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:23:21,941 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:23:21,942 INFO S.XML_SAX [main] characters 							Теория графов 
+2015-12-28 03:23:21,947 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:23:21,948 INFO S.XML_SAX [main] characters 							69 
+2015-12-28 03:23:21,950 INFO S.XML_SAX [main] endDocument Parsing ended 
+2015-12-28 03:25:38,579 INFO S.XML_SAX [main] startDocument Parsing started 
+2015-12-28 03:25:38,617 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:25:38,619 INFO S.XML_SAX [main] startElement 	groups [id 1] 
+2015-12-28 03:25:38,621 INFO S.XML_SAX [main] startElement 		name 
+2015-12-28 03:25:38,622 INFO S.XML_SAX [main] characters 			 > ИВТ-132 <  
+2015-12-28 03:25:38,623 INFO S.XML_SAX [main] startElement 		students 
+2015-12-28 03:25:38,625 INFO S.XML_SAX [main] startElement 			student [id 1] 
+2015-12-28 03:25:38,626 INFO S.XML_SAX [main] startElement 				family 
+2015-12-28 03:25:38,629 INFO S.XML_SAX [main] characters 					 > Петров <  
+2015-12-28 03:25:38,630 INFO S.XML_SAX [main] startElement 				name 
+2015-12-28 03:25:38,631 INFO S.XML_SAX [main] characters 					 > Андрей <  
+2015-12-28 03:25:38,633 INFO S.XML_SAX [main] startElement 				birth_date 
+2015-12-28 03:25:38,634 INFO S.XML_SAX [main] characters 					 > 1994-11-07T00:00:00+03:00 <  
+2015-12-28 03:25:38,635 INFO S.XML_SAX [main] startElement 				examResults 
+2015-12-28 03:25:38,637 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:25:38,638 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:25:38,639 INFO S.XML_SAX [main] characters 							 > Гистология <  
+2015-12-28 03:25:38,640 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:25:38,641 INFO S.XML_SAX [main] characters 							 > 56 <  
+2015-12-28 03:25:38,642 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:25:38,644 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:25:38,645 INFO S.XML_SAX [main] characters 							 > Правоведение <  
+2015-12-28 03:25:38,646 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:25:38,648 INFO S.XML_SAX [main] characters 							 > 98 <  
+2015-12-28 03:25:38,649 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:25:38,651 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:25:38,652 INFO S.XML_SAX [main] characters 							 > Теория графов <  
+2015-12-28 03:25:38,653 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:25:38,654 INFO S.XML_SAX [main] characters 							 > 73 <  
+2015-12-28 03:25:38,655 INFO S.XML_SAX [main] startElement 			student [id 2] 
+2015-12-28 03:25:38,656 INFO S.XML_SAX [main] startElement 				family 
+2015-12-28 03:25:38,658 INFO S.XML_SAX [main] characters 					 > Астапенко <  
+2015-12-28 03:25:38,660 INFO S.XML_SAX [main] startElement 				name 
+2015-12-28 03:25:38,661 INFO S.XML_SAX [main] characters 					 > Григорий <  
+2015-12-28 03:25:38,662 INFO S.XML_SAX [main] startElement 				birth_date 
+2015-12-28 03:25:38,663 INFO S.XML_SAX [main] characters 					 > 1993-01-11T00:00:00+03:00 <  
+2015-12-28 03:25:38,665 INFO S.XML_SAX [main] startElement 				examResults 
+2015-12-28 03:25:38,666 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:25:38,667 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:25:38,669 INFO S.XML_SAX [main] characters 							 > Гистология <  
+2015-12-28 03:25:38,670 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:25:38,671 INFO S.XML_SAX [main] characters 							 > 42 <  
+2015-12-28 03:25:38,672 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:25:38,676 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:25:38,677 INFO S.XML_SAX [main] characters 							 > Правоведение <  
+2015-12-28 03:25:38,679 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:25:38,680 INFO S.XML_SAX [main] characters 							 > 56 <  
+2015-12-28 03:25:38,681 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:25:38,682 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:25:38,683 INFO S.XML_SAX [main] characters 							 > Теория графов <  
+2015-12-28 03:25:38,685 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:25:38,686 INFO S.XML_SAX [main] characters 							 > 69 <  
+2015-12-28 03:25:38,687 INFO S.XML_SAX [main] endDocument Parsing ended 
+2015-12-28 03:26:30,073 INFO S.XML_SAX [main] startDocument Parsing with SAX started 
+2015-12-28 03:26:30,082 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:26:30,084 INFO S.XML_SAX [main] startElement 	groups [id 1] 
+2015-12-28 03:26:30,085 INFO S.XML_SAX [main] startElement 		name 
+2015-12-28 03:26:30,086 INFO S.XML_SAX [main] characters 			 > ИВТ-132 <  
+2015-12-28 03:26:30,093 INFO S.XML_SAX [main] startElement 		students 
+2015-12-28 03:26:30,094 INFO S.XML_SAX [main] startElement 			student [id 1] 
+2015-12-28 03:26:30,096 INFO S.XML_SAX [main] startElement 				family 
+2015-12-28 03:26:30,097 INFO S.XML_SAX [main] characters 					 > Петров <  
+2015-12-28 03:26:30,098 INFO S.XML_SAX [main] startElement 				name 
+2015-12-28 03:26:30,100 INFO S.XML_SAX [main] characters 					 > Андрей <  
+2015-12-28 03:26:30,101 INFO S.XML_SAX [main] startElement 				birth_date 
+2015-12-28 03:26:30,102 INFO S.XML_SAX [main] characters 					 > 1994-11-07T00:00:00+03:00 <  
+2015-12-28 03:26:30,103 INFO S.XML_SAX [main] startElement 				examResults 
+2015-12-28 03:26:30,104 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:26:30,106 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:26:30,106 INFO S.XML_SAX [main] characters 							 > Гистология <  
+2015-12-28 03:26:30,108 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:26:30,110 INFO S.XML_SAX [main] characters 							 > 56 <  
+2015-12-28 03:26:30,111 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:26:30,112 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:26:30,113 INFO S.XML_SAX [main] characters 							 > Правоведение <  
+2015-12-28 03:26:30,114 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:26:30,115 INFO S.XML_SAX [main] characters 							 > 98 <  
+2015-12-28 03:26:30,116 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:26:30,118 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:26:30,119 INFO S.XML_SAX [main] characters 							 > Теория графов <  
+2015-12-28 03:26:30,119 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:26:30,120 INFO S.XML_SAX [main] characters 							 > 73 <  
+2015-12-28 03:26:30,121 INFO S.XML_SAX [main] startElement 			student [id 2] 
+2015-12-28 03:26:30,122 INFO S.XML_SAX [main] startElement 				family 
+2015-12-28 03:26:30,123 INFO S.XML_SAX [main] characters 					 > Астапенко <  
+2015-12-28 03:26:30,124 INFO S.XML_SAX [main] startElement 				name 
+2015-12-28 03:26:30,125 INFO S.XML_SAX [main] characters 					 > Григорий <  
+2015-12-28 03:26:30,126 INFO S.XML_SAX [main] startElement 				birth_date 
+2015-12-28 03:26:30,127 INFO S.XML_SAX [main] characters 					 > 1993-01-11T00:00:00+03:00 <  
+2015-12-28 03:26:30,128 INFO S.XML_SAX [main] startElement 				examResults 
+2015-12-28 03:26:30,130 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:26:30,133 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:26:30,135 INFO S.XML_SAX [main] characters 							 > Гистология <  
+2015-12-28 03:26:30,136 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:26:30,137 INFO S.XML_SAX [main] characters 							 > 42 <  
+2015-12-28 03:26:30,138 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:26:30,140 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:26:30,141 INFO S.XML_SAX [main] characters 							 > Правоведение <  
+2015-12-28 03:26:30,143 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:26:30,144 INFO S.XML_SAX [main] characters 							 > 56 <  
+2015-12-28 03:26:30,145 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:26:30,146 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:26:30,147 INFO S.XML_SAX [main] characters 							 > Теория графов <  
+2015-12-28 03:26:30,148 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:26:30,149 INFO S.XML_SAX [main] characters 							 > 69 <  
+2015-12-28 03:26:30,151 INFO S.XML_SAX [main] endDocument Parsing with SAX ended 
+2015-12-28 03:27:07,866 DEBUG D.XMLFileReader [main] readToDOM Parsing with DOM only 
+2015-12-28 03:27:07,906 INFO D.XMLFileReader [main] readToDOM Root element: Root 
+2015-12-28 03:27:07,911 INFO D.XMLFileReader [main] printNodeList    name [ИВТ-132] 
+2015-12-28 03:27:07,912 INFO D.XMLFileReader [main] printNodeList      family [Петров] 
+2015-12-28 03:27:07,913 INFO D.XMLFileReader [main] printNodeList      name [Андрей] 
+2015-12-28 03:27:07,918 INFO D.XMLFileReader [main] printNodeList      birth_date [1994-11-07T00:00:00+03:00] 
+2015-12-28 03:27:07,920 INFO D.XMLFileReader [main] printNodeList        course_name [Гистология] 
+2015-12-28 03:27:07,922 INFO D.XMLFileReader [main] printNodeList        grade [56] 
+2015-12-28 03:27:07,923 INFO D.XMLFileReader [main] printNodeList        course_name [Правоведение] 
+2015-12-28 03:27:07,924 INFO D.XMLFileReader [main] printNodeList        grade [98] 
+2015-12-28 03:27:07,926 INFO D.XMLFileReader [main] printNodeList        course_name [Теория графов] 
+2015-12-28 03:27:07,927 INFO D.XMLFileReader [main] printNodeList        grade [73] 
+2015-12-28 03:27:07,928 INFO D.XMLFileReader [main] printNodeList      family [Астапенко] 
+2015-12-28 03:27:07,929 INFO D.XMLFileReader [main] printNodeList      name [Григорий] 
+2015-12-28 03:27:07,930 INFO D.XMLFileReader [main] printNodeList      birth_date [1993-01-11T00:00:00+03:00] 
+2015-12-28 03:27:07,931 INFO D.XMLFileReader [main] printNodeList        course_name [Гистология] 
+2015-12-28 03:27:07,933 INFO D.XMLFileReader [main] printNodeList        grade [42] 
+2015-12-28 03:27:07,934 INFO D.XMLFileReader [main] printNodeList        course_name [Правоведение] 
+2015-12-28 03:27:07,935 INFO D.XMLFileReader [main] printNodeList        grade [56] 
+2015-12-28 03:27:07,936 INFO D.XMLFileReader [main] printNodeList        course_name [Теория графов] 
+2015-12-28 03:27:07,937 INFO D.XMLFileReader [main] printNodeList        grade [69] 
+2015-12-28 03:27:07,938 DEBUG D.XMLFileReader [main] readWithXPath Parsing with XPath 
+2015-12-28 03:27:08,057 INFO D.XMLFileReader [main] readWithXPath students in current XML file: 
+2015-12-28 03:27:08,060 INFO D.XMLFileReader [main] readWithXPath id="1" 
+2015-12-28 03:27:08,067 INFO D.XMLFileReader [main] readWithXPath Андрей 
+2015-12-28 03:27:08,071 INFO D.XMLFileReader [main] readWithXPath Петров 
+2015-12-28 03:27:08,072 INFO D.XMLFileReader [main] readWithXPath id="2" 
+2015-12-28 03:27:08,077 INFO D.XMLFileReader [main] readWithXPath Григорий 
+2015-12-28 03:27:08,082 INFO D.XMLFileReader [main] readWithXPath Астапенко 
+2015-12-28 03:27:08,110 INFO S.XML_SAX [main] startDocument Parsing with SAX started 
+2015-12-28 03:27:08,113 INFO S.XML_SAX [main] startElement Root 
+2015-12-28 03:27:08,115 INFO S.XML_SAX [main] startElement 	groups [id 1] 
+2015-12-28 03:27:08,116 INFO S.XML_SAX [main] startElement 		name 
+2015-12-28 03:27:08,117 INFO S.XML_SAX [main] characters 			 > ИВТ-132 <  
+2015-12-28 03:27:08,118 INFO S.XML_SAX [main] startElement 		students 
+2015-12-28 03:27:08,119 INFO S.XML_SAX [main] startElement 			student [id 1] 
+2015-12-28 03:27:08,120 INFO S.XML_SAX [main] startElement 				family 
+2015-12-28 03:27:08,121 INFO S.XML_SAX [main] characters 					 > Петров <  
+2015-12-28 03:27:08,122 INFO S.XML_SAX [main] startElement 				name 
+2015-12-28 03:27:08,123 INFO S.XML_SAX [main] characters 					 > Андрей <  
+2015-12-28 03:27:08,124 INFO S.XML_SAX [main] startElement 				birth_date 
+2015-12-28 03:27:08,125 INFO S.XML_SAX [main] characters 					 > 1994-11-07T00:00:00+03:00 <  
+2015-12-28 03:27:08,126 INFO S.XML_SAX [main] startElement 				examResults 
+2015-12-28 03:27:08,127 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:27:08,129 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:27:08,130 INFO S.XML_SAX [main] characters 							 > Гистология <  
+2015-12-28 03:27:08,131 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:27:08,132 INFO S.XML_SAX [main] characters 							 > 56 <  
+2015-12-28 03:27:08,133 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:27:08,134 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:27:08,134 INFO S.XML_SAX [main] characters 							 > Правоведение <  
+2015-12-28 03:27:08,136 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:27:08,137 INFO S.XML_SAX [main] characters 							 > 98 <  
+2015-12-28 03:27:08,138 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:27:08,139 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:27:08,141 INFO S.XML_SAX [main] characters 							 > Теория графов <  
+2015-12-28 03:27:08,142 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:27:08,143 INFO S.XML_SAX [main] characters 							 > 73 <  
+2015-12-28 03:27:08,144 INFO S.XML_SAX [main] startElement 			student [id 2] 
+2015-12-28 03:27:08,145 INFO S.XML_SAX [main] startElement 				family 
+2015-12-28 03:27:08,146 INFO S.XML_SAX [main] characters 					 > Астапенко <  
+2015-12-28 03:27:08,147 INFO S.XML_SAX [main] startElement 				name 
+2015-12-28 03:27:08,148 INFO S.XML_SAX [main] characters 					 > Григорий <  
+2015-12-28 03:27:08,149 INFO S.XML_SAX [main] startElement 				birth_date 
+2015-12-28 03:27:08,151 INFO S.XML_SAX [main] characters 					 > 1993-01-11T00:00:00+03:00 <  
+2015-12-28 03:27:08,152 INFO S.XML_SAX [main] startElement 				examResults 
+2015-12-28 03:27:08,153 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:27:08,154 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:27:08,155 INFO S.XML_SAX [main] characters 							 > Гистология <  
+2015-12-28 03:27:08,156 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:27:08,157 INFO S.XML_SAX [main] characters 							 > 42 <  
+2015-12-28 03:27:08,158 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:27:08,159 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:27:08,160 INFO S.XML_SAX [main] characters 							 > Правоведение <  
+2015-12-28 03:27:08,161 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:27:08,162 INFO S.XML_SAX [main] characters 							 > 56 <  
+2015-12-28 03:27:08,163 INFO S.XML_SAX [main] startElement 					examResult 
+2015-12-28 03:27:08,164 INFO S.XML_SAX [main] startElement 						course_name 
+2015-12-28 03:27:08,166 INFO S.XML_SAX [main] characters 							 > Теория графов <  
+2015-12-28 03:27:08,174 INFO S.XML_SAX [main] startElement 						grade 
+2015-12-28 03:27:08,176 INFO S.XML_SAX [main] characters 							 > 69 <  
+2015-12-28 03:27:08,177 INFO S.XML_SAX [main] endDocument Parsing with SAX ended 

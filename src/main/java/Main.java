@@ -1,4 +1,5 @@
 import DOM.XMLFileReader;
+import SAX.XML_SAX;
 import XMLGen.XMLGen;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -21,15 +22,12 @@ public class Main {
         gen.generateXML();
         XMLFileReader reader = new XMLFileReader("generated.xml");
         try {
-            reader.ReadToDOM();
-        } catch (IOException | ParserConfigurationException | SAXException e) {
-            log.error(e.getMessage());
-        }
-        try {
+            reader.readToDOM();
             reader.readWithXPath();
         } catch (XPathExpressionException | IOException | SAXException | ParserConfigurationException e) {
             log.error(e.getMessage());
         }
-
+        XML_SAX sax = new XML_SAX("generated.xml");
+        sax.parse();
     }
 }

@@ -22,24 +22,13 @@ public class XMLFileReader {
     final Logger log = LogManager.getLogger(XMLFileReader.class);
 
     File file;
-    PrintStream printStream;
     XPath xpath = XPathFactory.newInstance().newXPath();
-
-    public PrintStream getPrintStream() {
-        return printStream;
-    }
-
-    public void setPrintStream(PrintStream printStream) {
-        this.printStream = printStream;
-    }
-
 
     public XMLFileReader(String fileName) {
         file = new File(fileName);
-        printStream = System.out;
     }
 
-    public void ReadToDOM() throws ParserConfigurationException, IOException, SAXException {
+    public void readToDOM() throws ParserConfigurationException, IOException, SAXException {
         log.debug("Parsing with DOM only");
         DocumentBuilder dBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
         Document doc = dBuilder.parse(file);
@@ -54,8 +43,7 @@ public class XMLFileReader {
 
     private void printNodeList(NodeList nl, String deep){
         for (int i = 0; i < nl.getLength(); i++) {
-            if (nl.item(i).getChildNodes().getLength() < 1
-                    && nl.item(i).getTextContent().trim().length() > 0)
+            if (nl.item(i).getChildNodes().getLength() < 1 && nl.item(i).getTextContent().trim().length() > 0)
             {
                 String nodeValue = deep + nl.item(i).getParentNode().getNodeName()
                         + " ["+nl.item(i).getTextContent().trim() + "]";
@@ -67,7 +55,8 @@ public class XMLFileReader {
         }
     }
 
-    public void readWithXPath() throws XPathExpressionException, ParserConfigurationException, IOException, SAXException {
+    public void readWithXPath()
+            throws XPathExpressionException, ParserConfigurationException, IOException, SAXException {
 //        InputSource inputSource = new InputSource("generated.xml");
         log.debug("Parsing with XPath");
         DocumentBuilder dBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
