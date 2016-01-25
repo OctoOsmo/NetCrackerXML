@@ -78,6 +78,7 @@ public class XMLGen {
             JAXBContext context = JAXBContext.newInstance(XmlRoot.class);
             Marshaller marshaller = context.createMarshaller();
             marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+            marshaller.setProperty(Marshaller.JAXB_NO_NAMESPACE_SCHEMA_LOCATION, "schema1.xsd");
             marshaller.marshal(root, new File("generated.xml"));
 
             SchemaOutputResolver sor = new SchemaOutputResolver() {
@@ -87,12 +88,9 @@ public class XMLGen {
                 }
             };
             context.generateSchema(sor);
-        } catch (JAXBException e) {
-            log.error(e.getMessage());
-        } catch (IOException e) {
+        } catch (JAXBException | IOException e) {
             log.error(e.getMessage());
         }
-
     }
 
 }

@@ -11,3 +11,6 @@
 [Main.java:32] 2015-12-25 10:11:19,415 ERROR Main [main] main javax.xml.transform.TransformerException: illegal axis name: name 
 [Main.java:32] 2015-12-27 03:28:13,001 ERROR Main [main] main javax.xml.transform.TransformerException: Unable to evaluate expression using this context 
 [Main.java:32] 2015-12-27 03:28:39,710 ERROR Main [main] main javax.xml.transform.TransformerException: Unable to evaluate expression using this context 
+[XMLGen.java:94] 2016-01-25 15:34:18,174 ERROR X.XMLGen [main] generateXML null 
+[Main.java:28] 2016-01-25 15:34:18,261 ERROR Main [main] main Premature end of file. 
+[XML_SAX.java:78] 2016-01-25 15:34:18,295 ERROR S.XML_SAX [main] parse Premature end of file. 
